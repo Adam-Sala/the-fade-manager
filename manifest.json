@@ -1,0 +1,19 @@
+{
+  "name": "The Fade Manager",
+  "short_name": "Fade Manager",
+  "description": "The Fade Barber Shop Manager",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#111111",
+  "theme_color": "#111111",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://drive.google.com/uc?export=view&id=1ooQPpi4uyjv9NiHSW6kymQhl6Jcy_rrs",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
